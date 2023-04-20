@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0efb4199-033b-4470-900f-e588342b010e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N5vqZWBwwpEn1h1R7epNCXuNJp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SnowWhiteOnShrooms/Desktop/Globi Game&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0efb4199-033b-4470-900f-e588342b010e" name="Changes" comment="" />
+      <created>1678966948302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678966948302</updated>
+      <workItem from="1678966949516" duration="7134000" />
+      <workItem from="1679036338559" duration="4008000" />
+      <workItem from="1679217345739" duration="651000" />
+      <workItem from="1679302383287" duration="3911000" />
+      <workItem from="1679308289120" duration="1129000" />
+      <workItem from="1679409040265" duration="4141000" />
+      <workItem from="1679481975262" duration="1872000" />
+      <workItem from="1679488626993" duration="32121000" />
+      <workItem from="1679902738953" duration="2012000" />
+      <workItem from="1679904768618" duration="4156000" />
+      <workItem from="1680171914946" duration="6417000" />
+      <workItem from="1680242235991" duration="11078000" />
+      <workItem from="1680614776797" duration="1907000" />
+      <workItem from="1680689292363" duration="2565000" />
+      <workItem from="1680783457701" duration="314000" />
+      <workItem from="1681028496871" duration="3134000" />
+      <workItem from="1681216508155" duration="7914000" />
+      <workItem from="1681567551494" duration="32065000" />
+      <workItem from="1681840682617" duration="25194000" />
+      <workItem from="1681971798412" duration="12432000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
